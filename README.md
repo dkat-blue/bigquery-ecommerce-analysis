@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains a series of SQL queries for analyzing eCommerce user behavior and conversion metrics using the `ga4_obfuscated_sample_ecommerce` dataset from Google Analytics BigQuery. The focus is on extracting meaningful insights from eCommerce interactions. The queries cover:
+This is a series of SQL queries for analyzing eCommerce user behavior and conversion metrics using the `ga4_obfuscated_sample_ecommerce` dataset from Google Analytics BigQuery. The focus is on extracting meaningful insights from eCommerce interactions. The queries cover:
 
 1. **BI Reporting Data Preparation**: Extracts user, session, and event data for key eCommerce activities in 2021.
 
